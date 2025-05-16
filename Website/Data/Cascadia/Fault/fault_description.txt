@@ -1,0 +1,9 @@
+Column 1: Longitude of the first vertex in degrees
+Column 2: Latitude of the first vertex in degrees
+Column 3: Height of the first vertex in km (negative means depth, i.e., below the surface)
+Column 4: Longitude of the second vertex
+Column 5: Longitude of the second vertex
+Column 6: Height of the second vertex in km (negative means depth, i.e., below the surface)
+Column 7: Longitude of the third vertex
+Column 8: Longitude of the third vertex
+Column 9: Height of the third vertex in km (negative means depth, i.e., below the surface)
