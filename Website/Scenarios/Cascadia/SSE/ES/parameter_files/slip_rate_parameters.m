@@ -6,7 +6,7 @@ options.slip_rate.fs = 365.25;
 
 % passband frequency in units of 1/yr (i.e., all periods lower than fpass
 % yr ~ fpass*365.25 days are filtered)
-options.slip_rate.fpass = 1/7; %5
+options.slip_rate.fpass = 5;
 
 % options.slip_rate.method can be:
 % 'tvdiff', 'slopemovwin', 'slopemovwincen'
